@@ -1,0 +1,18 @@
+# Archivos del SO
+.DS_Store
+Thumbs.db
+
+# Bytecode
+*.pyc
+
+#Archivos ejecutables
+bin/
+
+# HTML
+*.html
+
+# Log
+*.log
+
+
+
